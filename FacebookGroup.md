@@ -1,6 +1,6 @@
 Facebook Group membership growth:
 
-1. ACM Fall Kickoff 
+## 1. ACM Fall 2017 Kickoff 
 
 <img src="http://imgur.com/fOPSEpf.jpg"/>
 
